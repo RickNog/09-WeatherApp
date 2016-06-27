@@ -11,13 +11,13 @@
         };
         return service;
         ////////////////
-        	function getWeatherInfo() {
+        	function getWeatherInfo(citySearch) {
                 return $http({
                 method: 'GET',
                 url: "http://api.openweathermap.org/data/2.5/weather",
                 params: {
                     appid: "c8caa64cb704fb37338e823a31de897a",
-                q: "san diego"
+                q: citySearch
                 }
              }).then(function(response) {
               return response;
