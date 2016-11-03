@@ -1,6 +1,6 @@
 # 09-WeatherApp
 
-In this project, built Angular application that allows a user to search for weather data using the [OpenWeatherMap](http://openweathermap.org/) in a similar fashion to the following screenshot.
+In this project, I built an Angular application that allows a user to search for weather data using the [OpenWeatherMap](http://openweathermap.org/) in a similar fashion to the following screenshot.
 
 <img src="http://i.imgur.com/vLI7hzb.png" />
 
